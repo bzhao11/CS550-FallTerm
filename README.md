@@ -9,6 +9,7 @@ Since same numbers for width and height of the maze will produce different mazes
 Thanks!
 
 Mandelbrot
+
 For this project, I really wanted to have at least two fractal images that would contrast but complement each other. As a result, my first and third 
 image does just that. Since they have the same calculations for the color portion of the code, I specifically spent quite a bit of time finding a balanced
 but contrasting fractal in the mandelbrot set. As a result, I incorporate a spiral for my first image and a vein type picture in my third image. 
